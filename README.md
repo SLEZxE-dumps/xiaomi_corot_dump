@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240617.008 OS2.0.203.0.VMLMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: corot
+- flavor: missi-user
+- release: 15
+- id: AP3A.240617.008
+- incremental: OS2.0.203.0.VMLMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/corot_global/corot:13/TP1A.220624.014/OS2.0.203.0.VMLMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AP3A.240617.008-OS2.0.203.0.VMLMIXM-release-keys
+- repo: xiaomi_corot_dump
